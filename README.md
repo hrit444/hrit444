@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hritam 👋
 
-<!--
-**hrit444/hrit444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer | Backend Systems | Frontend Animations
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I build **scalable backend systems and interactive frontend experiences**.  
+Focused on **clean APIs, production-ready architecture, testing, and smooth UI animations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Full-stack web applications
+- REST APIs & authentication systems
+- **GenAI integration in web apps**
+- **Microservices architecture**
+- Automated backend testing
+
+## 🧩 Recent Work
+- Auth system (**Register / Login / Logout**)
+- **Token-based authorization**
+- **Address management APIs**
+- Backend testing with **Jest** & **Supertest**
+- **AI-integrated web features**
+- Backend services using **microservice concepts**
+
+## 🛠 Tech Stack
+**Frontend:** React, **Next.js**, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, Mongoose  
+**Testing:** Jest, Supertest  
+**Tools:** Git, GitHub, Postman
+
+## 📫 Reach Me
+LinkedIn: https://linkedin.com/in/yourusername  
+Instagram: https://www.instagram.com/hritam4862/  
+X/Twitter: https://x.com/444_dead
+
+⭐ Always building and learning.
