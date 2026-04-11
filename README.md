@@ -14,12 +14,10 @@ Focused on **clean APIs, production-ready architecture, testing, and smooth UI a
 - Automated backend testing
 
 ## 🧩 Recent Work
-- Auth system (**Register / Login / Logout**)
-- **Token-based authorization**
-- **Address management APIs**
-- Backend testing with **Jest** & **Supertest**
-- **AI-integrated web features**
-- Backend services using **microservice concepts**
+- LUNA (https://luna-8gpi.onrender.com/)
+- Virtual MacOS simulation (https://mac-os-simulation.vercel.app/)
+- Obys agency clone (https://obys-main-website.vercel.app/)
+- Pink Flare (https://pink-flare.vercel.app/)
 
 ## 🛠 Tech Stack
 **Frontend:** React, **Next.js**, Tailwind CSS  
