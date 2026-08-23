@@ -27,7 +27,7 @@ Focused on **clean APIs, production-ready architecture, testing, and smooth UI a
 **Tools:** Git, GitHub, Postman
 
 ## 📫 Reach Me
-LinkedIn: https://linkedin.com/in/yourusername  
+LinkedIn: https://linkedin.com/in/hritam-samanta-57258b277/
 Instagram: https://www.instagram.com/hritam4862/  
 X/Twitter: https://x.com/444_dead
 
